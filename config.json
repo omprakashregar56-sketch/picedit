@@ -1,0 +1,43 @@
+{
+  "app_name": "OM Picture Manager",
+  "theme": "sunset",
+  "window_size": "1150x720",
+  "last_dir": "",
+  "jpeg_quality": 92,
+  "target_kb": 100,
+  "autocrop_tolerance": 25,
+  "preview_max_side": 1400,
+  "undo_limit": 15,
+  "default_ratio": "Free",
+  "ratios": {
+    "Free": null,
+    "1:1": [
+      1,
+      1
+    ],
+    "4:3": [
+      4,
+      3
+    ],
+    "3:4": [
+      3,
+      4
+    ],
+    "3:2": [
+      3,
+      2
+    ],
+    "2:3": [
+      2,
+      3
+    ],
+    "16:9": [
+      16,
+      9
+    ],
+    "Passport 3.5x4.5": [
+      35,
+      45
+    ]
+  }
+}
